@@ -1,0 +1,6 @@
+.git
+.gitignore
+.idea
+*.md
+node_modules
+.DS_Store
